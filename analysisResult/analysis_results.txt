@@ -1,0 +1,90 @@
+
+================================================================================
+UNIFIED DATA ANALYSIS PIPELINE
+================================================================================
+
+Loading data...
+Loaded 1465 records with 16 columns
+  • Numeric columns: 1
+  • Categorical columns: 15
+
+
+================================================================================
+KEY INSIGHTS
+================================================================================
+
+[NUMERIC METRICS SUMMARY]
+--------------------------------------------------------------------------------
+
+RATING:
+  Count: 1464
+  Sum: $5,997.40
+  Average: $4.10
+  Min: $2.00
+  Max: $5.00
+
+
+[CATEGORY-WISE BREAKDOWN]
+--------------------------------------------------------------------------------
+
+RATING by CATEGORY:
+  Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables: Total: 967.40 | Avg: 4.15 (233 records)
+  Electronics|WearableTechnology|SmartWatches: Total: 305.90 | Avg: 4.02 (76 records)
+  Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones: Total: 278.80 | Avg: 4.10 (68 records)
+  Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions: Total: 265.20 | Avg: 4.21 (63 records)
+  Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear: Total: 202.70 | Avg: 3.90 (52 records)
+  Electronics|HomeTheater,TV&Video|Accessories|RemoteControls: Total: 186.20 | Avg: 3.80 (49 records)
+  Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders: Total: 108.30 | Avg: 4.01 (27 records)
+  Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice: Total: 102.90 | Avg: 4.29 (24 records)
+  Electronics|HomeTheater,TV&Video|Accessories|Cables|HDMICables: Total: 102.10 | Avg: 4.25 (24 records)
+  Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons: Total: 99.10 | Avg: 4.13 (24 records)
+
+
+[TOP 10 VALUES: PRODUCT_ID]
+--------------------------------------------------------------------------------
+  B07JW9H4J1: 3 records (0.2%)
+  B098NS6PVG: 3 records (0.2%)
+  B096MSW6CT: 3 records (0.2%)
+  B08HDJ86NZ: 3 records (0.2%)
+  B08CF3B7N1: 3 records (0.2%)
+  B08Y1TFSP6: 3 records (0.2%)
+  B08WRWPM22: 3 records (0.2%)
+  B08DDRGWTJ: 3 records (0.2%)
+  B08CF3D7QR: 3 records (0.2%)
+  B085DTN6R2: 3 records (0.2%)
+
+
+[TOP 10 PRODUCT_ID BY AVG RATING]
+--------------------------------------------------------------------------------
+  B09C6HXFC1: 13.50
+  B083342NKJ: 13.20
+  B09W5XR9RT: 13.20
+  B07XLCFSSN: 13.20
+  B08DDRGWTJ: 12.90
+  B08CF3D7QR: 12.90
+  B077Z65HSD: 12.90
+  B082T6V3DT: 12.90
+  B01GGKYKQM: 12.90
+  B07JW9H4J1: 12.60
+
+
+[TOP 10 VALUES: PRODUCT_NAME]
+--------------------------------------------------------------------------------
+  Fire-Boltt Ninja Call Pro Plus 1.83" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240*280 Pixel High Resolution: 5 records (0.3%)
+  Fire-Boltt Phoenix Smart Watch with Bluetooth Calling 1.3",120+ Sports Modes, 240*240 PX High Res with SpO2, Heart Rate Monitoring & IP67 Rating: 4 records (0.3%)
+  Wayona Nylon Braided USB to Lightning Fast Charging and Data Sync Cable Compatible for iPhone 13, 12,11, X, 8, 7, 6, 5, iPad Air, Pro, Mini (3 FT Pack of 1, Grey): 3 records (0.2%)
+  Ambrane Unbreakable 60W / 3A Fast Charging 1.5m Braided Type C Cable for Smartphones, Tablets, Laptops & other Type C devices, PD Technology, 480Mbps Data Sync, Quick Charge 3.0 (RCT15A, Black): 3 records (0.2%)
+  Sounce Fast Phone Charging Cable & Data Sync USB Cable Compatible for iPhone 13, 12,11, X, 8, 7, 6, 5, iPad Air, Pro, Mini & iOS Devices: 3 records (0.2%)
+  boAt Deuce USB 300 2 in 1 Type-C & Micro USB Stress Resistant, Tangle-Free, Sturdy Cable with 3A Fast Charging & 480mbps Data Transmission, 10000+ Bends Lifespan and Extended 1.5m Length(Martian Red): 3 records (0.2%)
+  Portronics Konnect L 1.2M Fast Charging 3A 8 Pin USB Cable with Charge & Sync Function for iPhone, iPad (Grey): 3 records (0.2%)
+  pTron Solero TB301 3A Type-C Data and Fast Charging Cable, Made in India, 480Mbps Data Sync, Strong and Durable 1.5-Meter Nylon Braided USB Cable for Type-C Devices for Charging Adapter (Black): 3 records (0.2%)
+  boAt Micro USB 55 Tangle-free, Sturdy Micro USB Cable with 3A Fast Charging & 480mbps Data Transmission (Black): 3 records (0.2%)
+  MI Usb Type-C Cable Smartphone (Black): 3 records (0.2%)
+================================================================================
+Analysis Complete!
+================================================================================
+
+
+[OK] Analysis complete!
+[OK] Results saved to 'analysisResult\analysis_results.txt'
+

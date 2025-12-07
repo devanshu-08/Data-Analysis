@@ -1,0 +1,79 @@
+Region,Category,Sales,Product,Segment,OrderPriority,SubCategory,Discount,Profit,Quantity,Margin
+East,Technology,2500,Laptop,Consumer,High,Computers,0.1,600,5,0.24
+East,Technology,2600,Laptop,Consumer,High,Computers,0.08,650,5,0.25
+East,Technology,2400,Laptop,Consumer,High,Computers,0.12,550,4,0.23
+West,Furniture,1800,Executive Chair,Corporate,Low,Seating,0,350,15,0.19
+West,Furniture,1850,Executive Chair,Corporate,Low,Seating,0.05,380,16,0.20
+West,Furniture,1750,Executive Chair,Corporate,Low,Seating,0,320,14,0.18
+East,Office Supplies,800,Pen Set,Consumer,Medium,Writing,0.05,120,50,0.15
+East,Office Supplies,810,Pen Set,Consumer,Medium,Writing,0.03,140,55,0.17
+East,Office Supplies,790,Pen Set,Consumer,Medium,Writing,0.07,100,48,0.13
+West,Technology,3200,Monitor,Consumer,High,Peripherals,0.15,800,8,0.25
+West,Technology,3350,Monitor,Consumer,High,Peripherals,0.12,850,9,0.25
+West,Technology,3100,Monitor,Consumer,High,Peripherals,0.18,750,7,0.24
+East,Furniture,1500,Desk,Corporate,Low,Seating,0.2,-100,3,0.30
+East,Furniture,1600,Desk,Corporate,Low,Seating,0.15,150,3,0.20
+East,Furniture,1550,Desk,Corporate,Low,Seating,0.18,50,3,0.16
+West,Office Supplies,600,Paper Ream,Consumer,Medium,Paper,0,60,100,0.10
+West,Office Supplies,620,Paper Ream,Consumer,Medium,Paper,0.02,80,105,0.12
+West,Office Supplies,580,Paper Ream,Consumer,Medium,Paper,0.05,40,95,0.07
+East,Technology,2800,Keyboard,Consumer,High,Peripherals,0.1,450,20,0.16
+East,Technology,2950,Keyboard,Consumer,High,Peripherals,0.08,500,22,0.17
+East,Technology,2650,Keyboard,Consumer,High,Peripherals,0.12,400,18,0.15
+West,Furniture,2200,Filing Cabinet,Corporate,Low,Storage,0,400,4,0.18
+West,Furniture,2300,Filing Cabinet,Corporate,Low,Storage,0.05,420,4,0.18
+West,Furniture,2100,Filing Cabinet,Corporate,Low,Storage,0.08,380,4,0.18
+East,Office Supplies,950,Stapler,Consumer,Medium,Supplies,0.05,140,40,0.15
+East,Office Supplies,1000,Stapler,Consumer,Medium,Supplies,0.02,180,42,0.18
+East,Office Supplies,900,Stapler,Consumer,Medium,Supplies,0.08,120,38,0.13
+West,Technology,4100,Tablet,Consumer,High,Computers,0.2,1000,3,0.24
+West,Technology,4300,Tablet,Consumer,High,Computers,0.15,1100,3,0.26
+West,Technology,3900,Tablet,Consumer,High,Computers,0.25,900,3,0.23
+East,Furniture,1700,Conference Table,Corporate,Low,Tables,0.15,200,2,0.18
+East,Furniture,1800,Conference Table,Corporate,Low,Tables,0.10,250,2,0.19
+East,Furniture,1600,Conference Table,Corporate,Low,Tables,0.20,150,2,0.17
+West,Office Supplies,750,Notebooks,Consumer,Medium,Paper,0,90,40,0.12
+West,Office Supplies,780,Notebooks,Consumer,Medium,Paper,0.03,110,42,0.14
+West,Office Supplies,720,Notebooks,Consumer,Medium,Paper,0.05,70,38,0.10
+East,Technology,3400,Printer,Consumer,High,Peripherals,0.1,850,2,0.25
+East,Technology,3600,Printer,Consumer,High,Peripherals,0.08,950,2,0.26
+East,Technology,3200,Printer,Consumer,High,Peripherals,0.12,750,2,0.24
+West,Furniture,1900,Office Chair,Corporate,Low,Seating,0.05,380,12,0.20
+West,Furniture,2000,Office Chair,Corporate,Low,Seating,0.02,420,13,0.21
+West,Furniture,1800,Office Chair,Corporate,Low,Seating,0.08,340,11,0.19
+East,Office Supplies,1100,Binder Clips,Consumer,Medium,Supplies,0.02,150,60,0.14
+East,Office Supplies,1200,Binder Clips,Consumer,Medium,Supplies,0,180,65,0.15
+East,Office Supplies,1000,Binder Clips,Consumer,Medium,Supplies,0.05,120,55,0.12
+West,Technology,2900,USB Hub,Consumer,High,Peripherals,0.12,650,25,0.22
+West,Technology,3100,USB Hub,Consumer,High,Peripherals,0.10,750,28,0.24
+West,Technology,2700,USB Hub,Consumer,High,Peripherals,0.15,550,22,0.20
+East,Furniture,2000,Bookshelf,Corporate,Low,Storage,0.1,350,5,0.18
+East,Furniture,2100,Bookshelf,Corporate,Low,Storage,0.08,400,5,0.19
+East,Furniture,1900,Bookshelf,Corporate,Low,Storage,0.12,300,5,0.16
+West,Office Supplies,820,Envelopes,Consumer,Medium,Paper,0,110,200,0.13
+West,Office Supplies,850,Envelopes,Consumer,Medium,Paper,0.02,140,210,0.16
+West,Office Supplies,790,Envelopes,Consumer,Medium,Paper,0.05,80,190,0.10
+East,Technology,3600,Graphics Card,Consumer,High,Computers,0.15,1100,2,0.31
+East,Technology,3800,Graphics Card,Consumer,High,Computers,0.12,1250,2,0.33
+East,Technology,3400,Graphics Card,Consumer,High,Computers,0.18,950,2,0.28
+West,Furniture,1600,Bar Stool,Corporate,Low,Seating,0.08,280,8,0.18
+West,Furniture,1700,Bar Stool,Corporate,Low,Seating,0.05,320,9,0.19
+West,Furniture,1500,Bar Stool,Corporate,Low,Seating,0.10,240,7,0.16
+North,Technology,2200,Projector,Consumer,High,Peripherals,0.20,480,1,0.22
+North,Technology,2400,Projector,Consumer,High,Peripherals,0.15,600,1,0.25
+North,Technology,2000,Projector,Consumer,High,Peripherals,0.25,380,1,0.19
+South,Furniture,2100,Sofa,Corporate,Low,Seating,0.12,420,2,0.20
+South,Furniture,2300,Sofa,Corporate,Low,Seating,0.08,550,2,0.24
+South,Furniture,1900,Sofa,Corporate,Low,Seating,0.15,340,2,0.18
+North,Office Supplies,650,Folders,Consumer,Medium,Paper,0.03,78,100,0.12
+North,Office Supplies,700,Folders,Consumer,Medium,Paper,0,95,110,0.14
+North,Office Supplies,600,Folders,Consumer,Medium,Paper,0.05,60,90,0.10
+South,Technology,3800,Scanner,Consumer,High,Peripherals,0.18,950,4,0.25
+South,Technology,4100,Scanner,Consumer,High,Peripherals,0.15,1100,4,0.27
+South,Technology,3500,Scanner,Consumer,High,Peripherals,0.20,800,4,0.23
+North,Furniture,1400,Ottoman,Corporate,Low,Seating,0.10,240,6,0.17
+North,Furniture,1550,Ottoman,Corporate,Low,Seating,0.05,300,7,0.19
+North,Furniture,1250,Ottoman,Corporate,Low,Seating,0.15,180,5,0.14
+South,Office Supplies,920,Tape,Consumer,Medium,Supplies,0.08,110,50,0.12
+South,Office Supplies,1000,Tape,Consumer,Medium,Supplies,0.05,140,55,0.14
+South,Office Supplies,840,Tape,Consumer,Medium,Supplies,0.10,80,45,0.10
