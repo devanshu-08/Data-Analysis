@@ -15,6 +15,7 @@ pip install -r requirements.txt
 ### Running Analysis
 ```bash
 python run.py data/sales_data.csv
+python run.py "link_to_csv_file_online.csv"
 ```
 
 Output is displayed on console AND automatically saved to `analysisResult/analysis_results.txt`
